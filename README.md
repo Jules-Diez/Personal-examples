@@ -18,6 +18,6 @@ I decided to share it on Kaggle to help fellow Kagglers that are starting with m
 
 *Working on, coming soon*
 
-# CIFAR-10
+## CIFAR-10
 
 *Working on, coming soon*
