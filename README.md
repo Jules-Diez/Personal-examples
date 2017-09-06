@@ -12,6 +12,7 @@ I decided to share it on Kaggle to help fellow Kagglers that are starting with m
 
 ### Not_MNIST with Tensorflow
 
+ - [Base de Tensorflow](https://github.com/Jules-Diez/Personal-examples/blob/master/NOTMNIST/Base%20de%20Tensorflow.ipynb)
  - [Preparation of the data](https://github.com/Jules-Diez/Personal-examples/blob/master/NOTMNIST/Preparation.ipynb)
  - [Fully connected neural network](https://github.com/Jules-Diez/Personal-examples/blob/master/NOTMNIST/Fully_connected.ipynb)
  - [Convolution neural network](https://github.com/Jules-Diez/Personal-examples/blob/master/NOTMNIST/Convolution.ipynb)
