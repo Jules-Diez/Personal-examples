@@ -18,8 +18,8 @@ I decided to share it on Kaggle to help fellow Kagglers that are starting with m
 
 ### CIFAR-10 with Keras
 
-- [Basic](https://github.com/Jules-Diez/Personal-examples/blob/master/CIFAR10/Keras_CIFAR10_basic.py)
-- [Batch Normalization](https://github.com/Jules-Diez/Personal-examples/blob/master/CIFAR10/Keras_CIFAR10_batchnorm.py)
-- [Re-Train](https://github.com/Jules-Diez/Personal-examples/blob/master/CIFAR10/Keras_CIFAR10_batchnorm_retrain.pyb)
-- [Grid-Search](https://github.com/Jules-Diez/Personal-examples/blob/master/CIFAR10/Keras_CIFAR10_gridsearch.py)
+- [Basic](https://github.com/Jules-Diez/Personal-examples/blob/master/CIFAR10/Keras_CIFAR10/Keras_CIFAR10_basic.py)
+- [Batch Normalization](https://github.com/Jules-Diez/Personal-examples/blob/master/CIFAR10/Keras_CIFAR10/Keras_CIFAR10_batchnorm.py)
+- [Re-Train](https://github.com/Jules-Diez/Personal-examples/blob/master/CIFAR10/Keras_CIFAR10/Keras_CIFAR10_batchnorm_retrain.pyb)
+- [Grid-Search](https://github.com/Jules-Diez/Personal-examples/blob/master/CIFAR10/Keras_CIFAR10/Keras_CIFAR10_gridsearch.py)
 
